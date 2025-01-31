@@ -1,4 +1,4 @@
 # DSPortfolio
-##lalalla
+### Education
+### Work Experience 
 
-###resume lalalal
